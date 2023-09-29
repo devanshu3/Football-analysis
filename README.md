@@ -42,4 +42,4 @@ find_hot_favorites(): Simulates multiple tournaments to find the teams with the 
 ## Contributing
 Contributions to this script are welcome. If you want to contribute, please fork the repository, make your changes, and submit a pull request.
 
-For questions or support, please contact [devanshu3] at [rawatdev0781@gmail.com].
+For questions or support, please contact devanshu3 at rawatdev0781@gmail.com.
