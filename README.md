@@ -1,6 +1,6 @@
-_## Football Analysis Program_
+_ Football Analysis Program_
 
-### Description
+## Description
 This Python script, named football_analysis.py, is designed to analyze football match data and make predictions based on the provided data. It includes functions for calculating team strengths, simulating tournaments, and finding hot favorites.
 
 ## Usage
